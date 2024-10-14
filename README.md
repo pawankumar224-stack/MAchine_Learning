@@ -1,1 +1,2 @@
-#### This repository contains the code and resources for developing and training machine learning models aimed at analyzing past company data to forecast and enhance future profitabilit.
+# Forecatsing Companies Profits using ML Models
+This repository contains the code and resources for developing and training machine learning models aimed at analyzing past company data to forecast and enhance future profitabilit.
